@@ -1,6 +1,6 @@
-data
-!data/.gitignore
-venv
-.git
-.ipynb_checkpoints
+/data/*
+!/data/.gitkeep
+/venv/
+/.git
+/.ipynb_checkpoints
 
