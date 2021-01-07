@@ -2,5 +2,5 @@
 !/data/.gitkeep
 /venv/
 /.git
-/.ipynb_checkpoints
+.ipynb_checkpoints
 
